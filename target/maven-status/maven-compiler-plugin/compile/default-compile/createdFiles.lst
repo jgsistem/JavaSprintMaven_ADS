@@ -1,0 +1,7 @@
+jg\sistem\trabajofinal\controller\UserController.class
+jg\sistem\trabajofinal\service\UserService.class
+jg\sistem\trabajofinal\dao\impl\UserDaoImpl.class
+jg\sistem\trabajofinal\dao\UserDao.class
+jg\sistem\trabajofinal\bean\UserBean.class
+jg\sistem\trabajofinal\service\impl\UserServiceImpl.class
+jg\sistem\trabajofinal\dao\UserMapper.class
